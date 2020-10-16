@@ -1,4 +1,5 @@
 */*.import/*
-*/temp/*
+*/*/temp/*
 */.vs/*
 */bin/*
+*/.mono
