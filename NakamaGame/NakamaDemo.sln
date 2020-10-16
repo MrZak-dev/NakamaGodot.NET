@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NakamaDemo", "NakamaDemo.csproj", "{47F04154-0820-4AF1-B513-6C60D5BBA2E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ExportDebug|Any CPU = ExportDebug|Any CPU
+		ExportRelease|Any CPU = ExportRelease|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F04154-0820-4AF1-B513-6C60D5BBA2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F04154-0820-4AF1-B513-6C60D5BBA2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F04154-0820-4AF1-B513-6C60D5BBA2E8}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{47F04154-0820-4AF1-B513-6C60D5BBA2E8}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{47F04154-0820-4AF1-B513-6C60D5BBA2E8}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{47F04154-0820-4AF1-B513-6C60D5BBA2E8}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{47F04154-0820-4AF1-B513-6C60D5BBA2E8}.Release|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{47F04154-0820-4AF1-B513-6C60D5BBA2E8}.Release|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B94E118-ED97-4910-9BBF-9C2418C4870F}
+	EndGlobalSection
+EndGlobal

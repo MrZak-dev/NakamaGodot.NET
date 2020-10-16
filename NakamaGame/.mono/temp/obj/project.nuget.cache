@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G6nzhq/H1ySZkjUMxqNi+9o9dMc9w9wVEGEBsvxRJxgBsBeYDAxQ4K040isWMPx827eVLcWNpBq0bgOvw0YCNQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Games\\GODOT\\Nakama\\nakama\\NakamaGame\\NakamaDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zakar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
