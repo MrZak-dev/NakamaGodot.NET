@@ -1,4 +1,4 @@
-.import/*
-temp/*
-.vs/*
-bin/*
+*/*.import/*
+*/temp/*
+*/.vs/*
+*/bin/*
